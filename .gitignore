@@ -1,0 +1,7 @@
+# Rust build output
+/target/
+
+# Local toolchains & caches installed for this environment
+/.cargo/
+/.rustup/
+/.local/
